@@ -8,7 +8,7 @@ public class Main{
         int n1 = sc.nextInt();
         System.out.println("Enter 2nd num:");
         int n2 = sc.nextInt();
-        
+        sc.close();
         float sum = n1+n2;
 
         System.out.println(sum);
